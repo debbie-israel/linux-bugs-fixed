@@ -37,11 +37,11 @@ $ sudo su
 # apt upgrade
 ```
 
-<br>
-![image](https://github.com/debbie-israel/linux-bugs-fixed/assets/56561804/a29e9684-60fc-41a6-b4dc-ed4c333ea040)
-<br>
 
-Hope this helps if you find a similar error! 
+![image](https://github.com/debbie-israel/linux-bugs-fixed/assets/56561804/a98b2ac2-5c1c-42a4-8091-a1da3ac93c30)
+
+
+Hope this helps if you find a similar error! <br>
 Credits: https://stackoverflow.com/questions/42410134/how-to-fix-e-the-list-of-sources-could-not-be-read-could-not-be-read-error/74236593#74236593?newreg=720f947bdb0247c087d1d0af115f7336
 
 After this I was able to run : 
