@@ -37,7 +37,7 @@ $ sudo su
 # apt upgrade
 ```
 Hope this helps if you find a similar error! 
-https://github.com/debbie-israel/linux-bugs-fixed/assets/56561804/d7b5d84d-70f1-4416-ab5d-a6d291c6568c
+Credits: https://stackoverflow.com/questions/42410134/how-to-fix-e-the-list-of-sources-could-not-be-read-could-not-be-read-error/74236593#74236593?newreg=720f947bdb0247c087d1d0af115f7336
 
 After this I was able to run : 
 
