@@ -36,6 +36,7 @@ $ sudo su
 # apt update
 # apt upgrade
 ```
+
 <br>
 ![image](https://github.com/debbie-israel/linux-bugs-fixed/assets/56561804/a29e9684-60fc-41a6-b4dc-ed4c333ea040)
 <br>
