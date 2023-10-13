@@ -36,6 +36,11 @@ $ sudo su
 # apt update
 # apt upgrade
 ```
+
+
+![image](https://github.com/debbie-israel/linux-bugs-fixed/assets/56561804/a29e9684-60fc-41a6-b4dc-ed4c333ea040)
+
+
 Hope this helps if you find a similar error! 
 Credits: https://stackoverflow.com/questions/42410134/how-to-fix-e-the-list-of-sources-could-not-be-read-could-not-be-read-error/74236593#74236593?newreg=720f947bdb0247c087d1d0af115f7336
 
